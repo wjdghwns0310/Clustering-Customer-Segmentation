@@ -2,6 +2,7 @@
 
 ## Kaggle Link
 https://www.kaggle.com/olistbr/brazilian-ecommerce
+
 You can also see here the full description of the project and related datasets.
 
 ## Introduction
@@ -10,6 +11,7 @@ Olist connects small businesses from all over Brazil to channels without hassle 
 Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. 
 Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
+
 https://olist.com/
 
 ## Goals
