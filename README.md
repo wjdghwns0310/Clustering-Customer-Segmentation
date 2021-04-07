@@ -18,3 +18,7 @@ https://olist.com/
 1. Olist marketing teams need an actionable description of the segmentation that allows them to thoroughly grasp its underlying logic .
 2. The quality of the data is somewhat poor. The idea is to create the best possible features for making optimum use of them, like Recency, Frequency and Monatary variables
 3. The segmentation needs to be robust: adding a few new customers to the database and creating a new segmentation using the same model should not result in totally different conclusions
+
+
+## Files
+final_v1.ipynb
