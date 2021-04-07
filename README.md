@@ -22,6 +22,8 @@ https://olist.com/
 
 ## Files
 final_v1.ipynb
+
 ARCHITECTURE.pdf
+
 Customer Segmentation
 
